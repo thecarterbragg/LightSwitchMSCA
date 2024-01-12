@@ -1,0 +1,28 @@
+* { box-sizing: border-box;}
+
+.board {
+    width: 500px;
+    height: 300px;
+    margin: 200px auto;
+    padding: 20px;
+    background-color: antiquewhite;
+    border: 3px solid rebeccapurple;
+    border-radius: 5px;
+}
+
+.button {
+    display: block;
+    margin: 60px auto;
+    padding: 16px 24px;
+    text-transform: uppercase;
+}
+
+.dark {
+    background-color: #222;
+    color: #eee;
+}
+
+.light {
+    background-color: #eee;
+    color: #222;
+}
